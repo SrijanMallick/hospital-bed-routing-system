@@ -162,8 +162,8 @@ function TriageForm({ onSubmit }: TriageFormProps) {
                 key={String(option.value)}
                 onClick={() => handleAnswer(currentQ.id, option.value)}
                 className={`w-full radio-card ${isSelected ? 'radio-card-selected' : ''} ${
-                  option.critical ? 'hover:border-danger-300 hover:bg-danger-50' : ''
-                } ${option.warning ? 'hover:border-warning-300 hover:bg-warning-50' : ''}`}
+                  ('critical' in option && option.critical) ? 'hover:border-danger-300 hover:bg-danger-50' : ''
+                } ${('warning' in option && option.warning) ? 'hover:border-warning-300 hover:bg-warning-50' : ''}`}
               >
                 <span className="flex items-center">
                   <span className="text-2xl mr-3">{option.icon}</span>
