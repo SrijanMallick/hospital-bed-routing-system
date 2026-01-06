@@ -1,6 +1,8 @@
 import { Hospital, TriageResponses, PatientLocation, TriageApiResponse, DashboardStats } from '../types';
 
-const API_BASE_URL = '/api';
+// For production demo, point directly to your Render backend
+// Example: https://hospital-bed-routing-system.onrender.com/api
+const API_BASE_URL = 'https://hospital-bed-routing-system.onrender.com/api';
 
 export const api = {
   // Get all hospitals
