@@ -1,0 +1,83 @@
+### Node / TypeScript / Vite common ignores
+node_modules/
+dist/
+build/
+.turbo/
+.parcel-cache/
+.vite/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+*.log
+
+# Dependency locks (optional – you can keep package-lock.json if you prefer)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Env / secrets
+.env
+.env.*.local
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Test / coverage
+coverage/
+.nyc_output/
+
+# Frontend build artifacts
+frontend/dist/
+
+# Backend build artifacts (if any in future)
+backend/dist/
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+dist/
+build/
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Frontend specific
+frontend/dist/
+frontend/node_modules/
+
+# Backend specific
+backend/node_modules/
+
+# Testing
+coverage/
+
+# Temporary files
+*.tmp
+.cache/
+

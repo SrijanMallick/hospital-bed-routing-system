@@ -1,0 +1,228 @@
+[
+  {
+    "id": "H001",
+    "name": "Government General Hospital",
+    "location": {
+      "lat": 28.6139,
+      "lng": 77.2090,
+      "address": "Central Delhi"
+    },
+    "beds": {
+      "icu": { "available": 5, "total": 20 },
+      "oxygen": { "available": 12, "total": 40 },
+      "general": { "available": 45, "total": 150 }
+    },
+    "lastUpdated": "2025-12-26T10:30:00Z"
+  },
+  {
+    "id": "H002",
+    "name": "District Hospital North",
+    "location": {
+      "lat": 28.7041,
+      "lng": 77.1025,
+      "address": "North Delhi"
+    },
+    "beds": {
+      "icu": { "available": 2, "total": 15 },
+      "oxygen": { "available": 8, "total": 30 },
+      "general": { "available": 30, "total": 100 }
+    },
+    "lastUpdated": "2025-12-26T10:25:00Z"
+  },
+  {
+    "id": "H003",
+    "name": "Civil Hospital East",
+    "location": {
+      "lat": 28.6517,
+      "lng": 77.2219,
+      "address": "East Delhi"
+    },
+    "beds": {
+      "icu": { "available": 0, "total": 12 },
+      "oxygen": { "available": 15, "total": 35 },
+      "general": { "available": 55, "total": 120 }
+    },
+    "lastUpdated": "2025-12-26T10:20:00Z"
+  },
+  {
+    "id": "H004",
+    "name": "AIIMS Trauma Center",
+    "location": {
+      "lat": 28.5672,
+      "lng": 77.2100,
+      "address": "South Delhi"
+    },
+    "beds": {
+      "icu": { "available": 8, "total": 30 },
+      "oxygen": { "available": 20, "total": 50 },
+      "general": { "available": 40, "total": 100 }
+    },
+    "lastUpdated": "2025-12-26T10:35:00Z"
+  },
+  {
+    "id": "H005",
+    "name": "Safdarjung Hospital",
+    "location": {
+      "lat": 28.5677,
+      "lng": 77.2064,
+      "address": "South Delhi"
+    },
+    "beds": {
+      "icu": { "available": 3, "total": 25 },
+      "oxygen": { "available": 10, "total": 45 },
+      "general": { "available": 50, "total": 180 }
+    },
+    "lastUpdated": "2025-12-26T10:28:00Z"
+  },
+  {
+    "id": "H006",
+    "name": "GTB Hospital",
+    "location": {
+      "lat": 28.6692,
+      "lng": 77.3052,
+      "address": "East Delhi"
+    },
+    "beds": {
+      "icu": { "available": 1, "total": 18 },
+      "oxygen": { "available": 5, "total": 38 },
+      "general": { "available": 25, "total": 140 }
+    },
+    "lastUpdated": "2025-12-26T10:15:00Z"
+  },
+  {
+    "id": "H007",
+    "name": "RML Hospital",
+    "location": {
+      "lat": 28.6329,
+      "lng": 77.2197,
+      "address": "Central Delhi"
+    },
+    "beds": {
+      "icu": { "available": 4, "total": 20 },
+      "oxygen": { "available": 18, "total": 42 },
+      "general": { "available": 60, "total": 130 }
+    },
+    "lastUpdated": "2025-12-26T10:32:00Z"
+  },
+  {
+    "id": "H008",
+    "name": "Lok Nayak Hospital",
+    "location": {
+      "lat": 28.6395,
+      "lng": 77.2348,
+      "address": "Central Delhi"
+    },
+    "beds": {
+      "icu": { "available": 0, "total": 22 },
+      "oxygen": { "available": 7, "total": 40 },
+      "general": { "available": 35, "total": 160 }
+    },
+    "lastUpdated": "2025-12-26T10:18:00Z"
+  },
+  {
+    "id": "H009",
+    "name": "Deen Dayal Hospital",
+    "location": {
+      "lat": 28.6431,
+      "lng": 77.0840,
+      "address": "West Delhi"
+    },
+    "beds": {
+      "icu": { "available": 6, "total": 16 },
+      "oxygen": { "available": 22, "total": 36 },
+      "general": { "available": 70, "total": 110 }
+    },
+    "lastUpdated": "2025-12-26T10:38:00Z"
+  },
+  {
+    "id": "H010",
+    "name": "Rajiv Gandhi Hospital",
+    "location": {
+      "lat": 28.6692,
+      "lng": 77.1456,
+      "address": "North West Delhi"
+    },
+    "beds": {
+      "icu": { "available": 2, "total": 14 },
+      "oxygen": { "available": 9, "total": 32 },
+      "general": { "available": 42, "total": 95 }
+    },
+    "lastUpdated": "2025-12-26T10:22:00Z"
+  },
+  {
+    "id": "H011",
+    "name": "Sanjay Gandhi Hospital",
+    "location": {
+      "lat": 28.6817,
+      "lng": 77.0840,
+      "address": "West Delhi"
+    },
+    "beds": {
+      "icu": { "available": 3, "total": 12 },
+      "oxygen": { "available": 14, "total": 28 },
+      "general": { "available": 48, "total": 105 }
+    },
+    "lastUpdated": "2025-12-26T10:27:00Z"
+  },
+  {
+    "id": "H012",
+    "name": "Babu Jagjivan Ram Hospital",
+    "location": {
+      "lat": 28.6471,
+      "lng": 77.3102,
+      "address": "East Delhi"
+    },
+    "beds": {
+      "icu": { "available": 1, "total": 10 },
+      "oxygen": { "available": 6, "total": 25 },
+      "general": { "available": 38, "total": 90 }
+    },
+    "lastUpdated": "2025-12-26T10:24:00Z"
+  },
+  {
+    "id": "H013",
+    "name": "Dr. Hedgewar Hospital",
+    "location": {
+      "lat": 28.6239,
+      "lng": 77.2759,
+      "address": "South East Delhi"
+    },
+    "beds": {
+      "icu": { "available": 5, "total": 15 },
+      "oxygen": { "available": 16, "total": 34 },
+      "general": { "available": 52, "total": 115 }
+    },
+    "lastUpdated": "2025-12-26T10:31:00Z"
+  },
+  {
+    "id": "H014",
+    "name": "Janakpuri Super Specialty Hospital",
+    "location": {
+      "lat": 28.6219,
+      "lng": 77.0858,
+      "address": "West Delhi"
+    },
+    "beds": {
+      "icu": { "available": 7, "total": 18 },
+      "oxygen": { "available": 19, "total": 38 },
+      "general": { "available": 65, "total": 125 }
+    },
+    "lastUpdated": "2025-12-26T10:36:00Z"
+  },
+  {
+    "id": "H015",
+    "name": "Guru Teg Bahadur Hospital Shahdara",
+    "location": {
+      "lat": 28.6795,
+      "lng": 77.2858,
+      "address": "North East Delhi"
+    },
+    "beds": {
+      "icu": { "available": 4, "total": 17 },
+      "oxygen": { "available": 11, "total": 33 },
+      "general": { "available": 44, "total": 108 }
+    },
+    "lastUpdated": "2025-12-26T10:29:00Z"
+  }
+]
+
